@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "cuci-kering-lipat",
+    "nama": "Cuci Kering Lipat",
+    "kode": "CK",
+    "harga": 6000,
+    "satuan": "kg",
+    "durasi": "2 hari",
+    "minimal": "3 kg",
+    "ringkas": "Pakaian dicuci, dikeringkan, lalu dilipat rapi tanpa setrika. Pilihan hemat untuk pakaian harian.",
+    "deskripsi": "Pakaian harian dicuci dengan deterjen dan pewangi standar, dikeringkan dengan mesin, lalu dilipat rapi. Cocok untuk kaos, celana santai, dan pakaian dalam yang tidak perlu disetrika.",
+    "catatan": "Pakaian luntur dan berbahan khusus (sutra, wol) sebaiknya diberi tahu saat penyerahan agar dipisahkan.",
+    "unggulan": true
+  },
+  {
+    "slug": "cuci-setrika",
+    "nama": "Cuci Setrika",
+    "kode": "CS",
+    "harga": 8000,
+    "satuan": "kg",
+    "durasi": "3 hari",
+    "minimal": "3 kg",
+    "ringkas": "Paket lengkap: cuci, kering, setrika, dan lipat. Pakaian siap pakai saat diambil.",
+    "deskripsi": "Layanan paling lengkap untuk pakaian kerja dan seragam. Pakaian dicuci, dikeringkan, disetrika satu per satu, lalu dilipat atau digantung sesuai permintaan.",
+    "catatan": "Kemeja dan celana bahan dapat diminta digantung dengan hanger plastik, tanpa biaya tambahan.",
+    "unggulan": true
+  },
+  {
+    "slug": "setrika-saja",
+    "nama": "Setrika Saja",
+    "kode": "ST",
+    "harga": 5000,
+    "satuan": "kg",
+    "durasi": "1 hari",
+    "minimal": "3 kg",
+    "ringkas": "Pakaian sudah bersih, tinggal disetrika dan dilipat. Selesai keesokan harinya.",
+    "deskripsi": "Untuk pakaian yang sudah Anda cuci sendiri di rumah. Kami menyetrika, melipat, dan mengemas kembali. Pakaian harus dalam kondisi bersih dan kering saat diserahkan.",
+    "catatan": "Pakaian yang masih lembap atau berbau akan kami tawarkan untuk dicuci ulang dengan tarif Cuci Setrika.",
+    "unggulan": false
+  },
+  {
+    "slug": "cuci-express",
+    "nama": "Cuci Setrika Express",
+    "kode": "EX",
+    "harga": 15000,
+    "satuan": "kg",
+    "durasi": "6 jam",
+    "minimal": "2 kg",
+    "ringkas": "Butuh cepat? Cuci, setrika, dan lipat selesai dalam 6 jam pada hari yang sama.",
+    "deskripsi": "Layanan prioritas untuk kebutuhan mendesak. Cucian diproses lebih dulu dan selesai dalam 6 jam sejak diterima, selama masuk sebelum pukul 13.00.",
+    "catatan": "Cucian yang masuk setelah pukul 13.00 selesai keesokan pagi. Kuota express terbatas per hari; konfirmasi ketersediaan lewat WhatsApp.",
+    "unggulan": true
+  },
+  {
+    "slug": "bedcover-selimut",
+    "nama": "Bedcover & Selimut",
+    "kode": "BC",
+    "harga": 25000,
+    "satuan": "item",
+    "durasi": "3 hari",
+    "minimal": "1 item",
+    "ringkas": "Bedcover, selimut, dan sprei dicuci terpisah dengan mesin kapasitas besar.",
+    "deskripsi": "Bedcover, selimut tebal, sprei, dan sarung bantal dicuci terpisah dari pakaian dengan mesin kapasitas besar, lalu dikeringkan sampai tuntas agar tidak apek. Harga per item untuk ukuran single; ukuran queen dan king dikenakan tarif berbeda.",
+    "catatan": "Harga tertera untuk ukuran single. Ukuran queen dan king akan diinformasikan saat penyerahan.",
+    "unggulan": false
+  },
+  {
+    "slug": "sepatu",
+    "nama": "Cuci Sepatu",
+    "kode": "SP",
+    "harga": 35000,
+    "satuan": "pasang",
+    "durasi": "3 hari",
+    "minimal": "1 pasang",
+    "ringkas": "Sepatu sneakers dan kanvas dibersihkan manual, termasuk tali dan insole.",
+    "deskripsi": "Sepatu dibersihkan secara manual bagian luar, dalam, tali, dan insole dengan sabun khusus, lalu dikeringkan tanpa panas langsung agar lem tidak rusak.",
+    "catatan": "Sepatu kulit dan suede memerlukan perlakuan khusus; kirim foto lewat WhatsApp sebelum diantar untuk konfirmasi.",
+    "unggulan": false
+  }
+]
